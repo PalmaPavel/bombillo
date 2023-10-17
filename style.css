@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: gray;
+}
+
+.bombillo{
+    width: 100%;
+}
+
+.bombillo img{
+    display: block;
+    margin: auto;
+}
+
+.switch{
+    display: block;
+    background-color: transparent;
+    margin: auto;
+}
+
+.switch img{
+    height: 90px;
+    cursor: pointer;
+}
